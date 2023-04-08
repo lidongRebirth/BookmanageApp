@@ -1,4 +1,3 @@
-
 # 图书馆管理系统
 
 包含后端项目、数据库建表和前端APP，新出炉的项目。
@@ -25,13 +24,13 @@
 - 扫描取书、还书操作
 
 # 项目截图
-< img src="https://img-blog.csdnimg.cn/6651ab09ce8b461aa781f0716f137089.jpeg" width="40%"/>
-< img src="https://img-blog.csdnimg.cn/e2c7944287ee4944867c33e512fb16a5.jpeg" width="40%"/>
-< img src="https://img-blog.csdnimg.cn/44187e6a171a4611bf0bb5587f117997.jpeg" width="40%"/>
-< img src="https://img-blog.csdnimg.cn/cf45f4f3fded409696bda9ab1642ff89.jpeg" width="40%"/>
-< img src="https://img-blog.csdnimg.cn/b38dff27fd0d46b9a58df8b497e16cff.jpeg" width="40%"/>
-< img src="https://img-blog.csdnimg.cn/8d08fa27ca5e4cc1870f3201a1693a69.jpeg" width="40%"/>
-< img src="https://img-blog.csdnimg.cn/83c42ba006ea401c86256eebb2c2cb26.jpeg" width="40%"/>
+![请添加图片描述](https://img-blog.csdnimg.cn/6651ab09ce8b461aa781f0716f137089.jpeg)
+![请添加图片描述](https://img-blog.csdnimg.cn/e2c7944287ee4944867c33e512fb16a5.jpeg)
+![请添加图片描述](https://img-blog.csdnimg.cn/44187e6a171a4611bf0bb5587f117997.jpeg)
+![请添加图片描述](https://img-blog.csdnimg.cn/cf45f4f3fded409696bda9ab1642ff89.jpeg)
+![请添加图片描述](https://img-blog.csdnimg.cn/b38dff27fd0d46b9a58df8b497e16cff.jpeg)
+![请添加图片描述](https://img-blog.csdnimg.cn/8d08fa27ca5e4cc1870f3201a1693a69.jpeg)
+![请添加图片描述](https://img-blog.csdnimg.cn/83c42ba006ea401c86256eebb2c2cb26.jpeg)
 
 
 # 项目文档
